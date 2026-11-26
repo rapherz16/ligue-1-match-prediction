@@ -1,0 +1,2 @@
+model,accuracy,balanced_accuracy,macro_f1
+Logistic regression,0.5032679738562091,0.43346741622053025,0.41681341082959716
